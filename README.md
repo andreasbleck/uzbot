@@ -26,5 +26,4 @@ Use comandos de barra no Discord:
 ## Notas
 
 - O bot faz streaming de áudio diretamente da URL obtida pelo yt-dlp para início rápido.
-- Certifique-se de que yt-dlp.exe está na raiz do projeto.
 - Requer Node.js 16+.
